@@ -1,0 +1,20 @@
+/* Universal selector */
+*{
+    font-family: courier new;
+}
+
+/* Element selector */
+h1{
+    color: #1b74e4;
+}
+
+/* ID selector */
+#searchbtn {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* class selector */
+.userbtn{
+    background-color: aqua;
+}
