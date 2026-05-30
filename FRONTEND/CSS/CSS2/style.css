@@ -87,3 +87,22 @@ input[type="radio"]:checked+label {
 div:nth-of-type(3n) {
     background-color: lightblue;
 }   
+
+/* pseudo-element selector */
+p::first-letter {
+    font-weight: bold;
+}
+
+p::first-line {
+    color: red;
+}
+
+p::selection {
+    background-color: black;
+    color: white;
+}
+
+/* selector specificity :-  id>class>element*/
+/* if specificity is the same, the last rule wins */
+ 
+/* if this "important" is written it has highest priority even over inline styles */
