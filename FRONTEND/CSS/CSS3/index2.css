@@ -1,0 +1,11 @@
+h2{
+    display: inline;
+    background-color: yellow;
+}
+
+span{
+    background-color: pink;
+    border: 1px solid black;
+    
+    padding: 5px; /* padding only creates space on the left and right of the text, not above and below it */
+}
