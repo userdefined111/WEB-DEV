@@ -1,6 +1,0 @@
-BLOCK:- always start with a new line
-        Horizontalandverticalmarginsbothwork 
-        WillrespectwidthandheightCSSproperties
-        Takeupasmuchhorizontalspaceaspossible(the full width of the container or browser window if there is no containe)
-
-INLINE :-        
