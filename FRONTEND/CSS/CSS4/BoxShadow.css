@@ -1,0 +1,11 @@
+div {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    background-color: #df0b0b;
+    margin:10px auto;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    background-image: url("signup.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
